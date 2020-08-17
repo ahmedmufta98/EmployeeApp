@@ -1,0 +1,5 @@
+C:\Users\ARNI - PC06\source\repos\EmployeeApp.Api\EmployeeApp.Repository\bin\Debug\netstandard2.0\EmployeeApp.Repository.deps.json
+C:\Users\ARNI - PC06\source\repos\EmployeeApp.Api\EmployeeApp.Repository\bin\Debug\netstandard2.0\EmployeeApp.Repository.dll
+C:\Users\ARNI - PC06\source\repos\EmployeeApp.Api\EmployeeApp.Repository\obj\Debug\netstandard2.0\EmployeeApp.Repository.csprojAssemblyReference.cache
+C:\Users\ARNI - PC06\source\repos\EmployeeApp.Api\EmployeeApp.Repository\obj\Debug\netstandard2.0\EmployeeApp.Repository.AssemblyInfoInputs.cache
+C:\Users\ARNI - PC06\source\repos\EmployeeApp.Api\EmployeeApp.Repository\obj\Debug\netstandard2.0\EmployeeApp.Repository.AssemblyInfo.cs
